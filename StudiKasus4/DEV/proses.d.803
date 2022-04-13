@@ -1,0 +1,1 @@
+proses.o: StudiKasus4/DEV/proses.cpp StudiKasus4/DEV/../Library/proses.h
